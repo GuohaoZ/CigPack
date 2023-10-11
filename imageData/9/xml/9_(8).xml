@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>9_(8).jpg</filename>
+		<size>
+			<width>1600</width>
+			<height>1200</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>dirtySpot</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>851</xmin>
+				<ymin>784</ymin>
+				<xmax>862</xmax>
+				<ymax>796</ymax>
+			</bndbox>
+		</object>
+	</annotation>
