@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_</folder>
+	<filename>20230423_130618_647_3.jpg</filename>
+	<path>C:\Users\91225\Desktop\img_\20230423_130618_647_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skewed_bottom_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>699</xmin>
+			<ymin>1047</ymin>
+			<xmax>900</xmax>
+			<ymax>1119</ymax>
+		</bndbox>
+	</object>
+</annotation>

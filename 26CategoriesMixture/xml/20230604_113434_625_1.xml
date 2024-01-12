@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_</folder>
+	<filename>20230604_113434_625_1.jpg</filename>
+	<path>C:\Users\91225\Desktop\img_\20230604_113434_625_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headUpwarp_upper_01</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1097</xmin>
+			<ymin>188</ymin>
+			<xmax>1326</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_</folder>
+	<filename>20230516_113046_124_1.jpg</filename>
+	<path>C:\Users\91225\Desktop\img_\20230516_113046_124_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boxDamage_slight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>877</ymin>
+			<xmax>1293</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_</folder>
+	<filename>20230611_150730_126_0.jpg</filename>
+	<path>C:\Users\91225\Desktop\img_\20230611_150730_126_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dirtyOil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1086</xmin>
+			<ymin>267</ymin>
+			<xmax>1099</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

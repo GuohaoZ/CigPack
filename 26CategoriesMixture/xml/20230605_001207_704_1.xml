@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>img_</folder>
+	<filename>20230605_001207_704_1.jpg</filename>
+	<path>C:\Users\91225\Desktop\img_\20230605_001207_704_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>areaOil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1303</xmin>
+			<ymin>466</ymin>
+			<xmax>1353</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>areaOil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymin>684</ymin>
+			<xmax>1243</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+</annotation>

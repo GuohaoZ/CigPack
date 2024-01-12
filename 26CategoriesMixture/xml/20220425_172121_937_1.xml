@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_</folder>
+	<filename>20220425_172121_937_1.jpg</filename>
+	<path>C:\Users\91225\Desktop\img_\20220425_172121_937_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dirtyScratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>567</ymin>
+			<xmax>476</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+</annotation>

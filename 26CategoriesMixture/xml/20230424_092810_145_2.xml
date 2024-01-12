@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>20230424_092810_145_2.jpg</filename>
+		<size>
+			<width>1600</width>
+			<height>1200</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>outerFold_upper_2</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>748</xmin>
+				<ymin>137</ymin>
+				<xmax>940</xmax>
+				<ymax>369</ymax>
+			</bndbox>
+		</object>
+	</annotation>
